@@ -4,7 +4,7 @@ from eth_account import Account
 
 print("Bienvenue dans mon programme d'extraction de données de la blockchain Ethereum")
 
-INFURA_API_KEY = '91e6692c109c47c395f5d115a5a01395'  # Remplacez par votre propre clé API Infura
+INFURA_API_KEY = 'clé_infura'  # Remplacez par votre propre clé API Infura
 
 w3 = Web3(Web3.HTTPProvider(f'https://mainnet.infura.io/v3/{INFURA_API_KEY}'))
 
