@@ -1,23 +1,4 @@
-""""
-#ensoleille = True
-#if ensoleille :
-#   print ("allons à la plage")
-#else :
-#   print ("restons à la maison")
 
-#neige = False
-#if neige :
-#   print ("bohnome de neige")
-#else :
-#    print ("allons à la plage")
-#
-#if ensoleille and neige :
-#   print ("restons à la maison")
-#elif ensoleille and not neige:
-#    print ("allons à la plage")
-
-#else :
-#   print ("allons au travail")
 
 # import hashlib
 
