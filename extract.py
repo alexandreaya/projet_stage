@@ -66,16 +66,3 @@ block = w3.eth.get_block(block_number)
 transactions = block['transactions']
 print(transactions)
 """
-
-
-
-
-
-
-
-
-
-
-
-
-
