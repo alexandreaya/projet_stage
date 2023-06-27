@@ -16,14 +16,3 @@ for i in range (0,8) :
     print(web3.eth.get_block(latest - i))
 hash = '0xe0884c6f8503f8b3e0386aaa00fcfdfcc66a2bc3f79814de6afa400a531c7d2d'
 print(web3.eth.get_transaction_by_block(hash,2))
-
-
-
-
-
-
-
-
-
-
-
