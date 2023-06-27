@@ -17,5 +17,3 @@ web3.eth.wait_for_transaction_receipt(tx_hash)
 print('Uptaded greeting: {}'.format(
     contract.functions.greet().call()
 ))
-
-
