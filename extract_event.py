@@ -12,6 +12,3 @@ for tx_hash in pending_transactions:
     print("Transaction Hash:", tx_hash.hex())
     print("From Address:", tx['from'])
     print("To Address:", tx['to'],"\n")
-
-
-
