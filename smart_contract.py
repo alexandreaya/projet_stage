@@ -18,7 +18,3 @@ print(contract.functions.symbol().call())
 print(contract.functions.owner().call())
 balance = contract.functions.balanceOf('0xf2549FBA1DA6E17a1e82478A0b0a945aDB7416c7').call()
 print(web3.from_wei(balance, 'ether'))
-
-
-
-
