@@ -2,7 +2,7 @@ from web3 import Web3
 import openpyxl
 
 
-infura_url = 'https://goerli.infura.io/v3/91e6692c109c47c395f5d115a5a01395'
+infura_url = 'https://goerli.infura.io/v3/clé_infura'
 web3 = Web3(Web3.HTTPProvider(infura_url))
 
 # Liste des transactions (hash)
